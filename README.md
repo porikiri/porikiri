@@ -43,8 +43,8 @@
 ---
 
 ## 📫 Contact & Links
-- 💬 **GitHub:** [github.com/YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
-- ✉️ **Email:** your-email@example.com
+- 💬 **GitHub:** [github.com/porikiri(https://github.com/porikiri)
+- ✉️ **Email:** parkuiny@gmail.com
 
 <!-- 방문자 수 카운터 -->
 <p align="right">
